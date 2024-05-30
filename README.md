@@ -8,5 +8,5 @@ db.sql
 
 ## RUN TEST
 ```
-mvn test -Dtest=TutorialControllerTests
+mvn test -Dtest=UserControllerTests
 ```
